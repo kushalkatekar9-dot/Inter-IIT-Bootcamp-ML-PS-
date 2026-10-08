@@ -1,0 +1,23 @@
+{
+  "decisions": [
+    "Build the new web dashboard using React.",
+    "Do not migrate servers to AWS; stay on Google Cloud."
+  ],
+  "action_items": [
+    {
+      "task": "Fix login bug",
+      "owner": "Ananya",
+      "deadline": "Friday at 5 pm"
+    },
+    {
+      "task": "Test mobile app notifications",
+      "owner": "Kabir",
+      "deadline": "unspecified"
+    },
+    {
+      "task": "Update project documentation on GitHub",
+      "owner": "unspecified",
+      "deadline": "unspecified"
+    }
+  ]
+}

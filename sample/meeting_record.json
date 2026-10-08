@@ -1,0 +1,52 @@
+{
+  "summary": "The team decided to develop the new web dashboard with React and to remain on Google Cloud instead of migrating to AWS. An idea to rewrite the backend in Python was mentioned but not approved. Action items were assigned to fix a login bug, test mobile notifications, and update project documentation.",
+  "minutes": [
+    {
+      "topic": "Web dashboard technology",
+      "points": [
+        "Decided to build the new web dashboard using React to improve page speed."
+      ]
+    },
+    {
+      "topic": "Server hosting",
+      "points": [
+        "Will not migrate servers to AWS; will stay on Google Cloud."
+      ]
+    },
+    {
+      "topic": "Backend language suggestion",
+      "points": [
+        "Rohan suggested rewriting backend code in Python, but it is only an idea and not approved."
+      ]
+    },
+    {
+      "topic": "Action Items",
+      "points": [
+        "Ananya to fix the login bug by Friday at 5 pm.",
+        "Kabir to test the mobile app notifications.",
+        "Someone to update the project documentation on GitHub."
+      ]
+    }
+  ],
+  "decisions": [
+    "Build the new web dashboard using React.",
+    "Do not migrate servers to AWS; stay on Google Cloud."
+  ],
+  "action_items": [
+    {
+      "task": "Fix login bug",
+      "owner": "Ananya",
+      "deadline": "Friday at 5 pm"
+    },
+    {
+      "task": "Test mobile app notifications",
+      "owner": "Kabir",
+      "deadline": "unspecified"
+    },
+    {
+      "task": "Update project documentation on GitHub",
+      "owner": "unspecified",
+      "deadline": "unspecified"
+    }
+  ]
+}
