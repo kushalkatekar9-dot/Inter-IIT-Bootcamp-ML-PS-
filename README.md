@@ -63,4 +63,4 @@ right above them if you want to change them.
 
 ## Samples
 
-The `samples/` folder has the recording we used and the outputs the app generated for it.
+The `samples/` folder has the recording used and the outputs the app generated for it.
